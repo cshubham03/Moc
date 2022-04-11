@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Example {
 	
 	
+	
 	public static void largestNumber() {
 		Scanner scanner=new Scanner(System.in);
 		System.out.println("Enter first Number- ");
